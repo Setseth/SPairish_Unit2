@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   horizontalInput: 0
-  speed: 6
+  speed: 8
 --- !u!1 &425805626
 GameObject:
   m_ObjectHideFlags: 0
